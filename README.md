@@ -26,4 +26,5 @@ Triggered by a "Get Data" button, the macro is structured to allow for easy modi
 
 ## Usage Instructions
 
-For detailed setup and usage instructions, refer to the [AutoDataCollector Usage Guide](docs/AutoDataCollector_usage_example.md).
+For detailed setup and usage instructions, refer to the [AutoDataCollector Usage Guide](https://github.com/Olajydon/AutoDataCollector-Automated-Metric-Retrieval-and-Aggregation/blob/main/docs/AutoDataCollector_usage_example.md)
+.
