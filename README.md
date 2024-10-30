@@ -1,4 +1,4 @@
-# Excel Automation Project: Data Collection and Visualization
+# Excel Report Automation: Data Collection and Visualization
 
 This repository contains VBA tools for automating data collection, aggregation, and visualization across Excel workbooks. The **AutoDataCollector** and **RefreshChart** macros work together to streamline data retrieval and chart updates, making performance reporting efficient and accurate.
 
